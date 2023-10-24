@@ -1,5 +1,5 @@
 // import { useEffect, useState } from "react";
-// import { Root } from "../types";
+// import { Root } from "../types/product";
 
 // export const FetchApi = () => {
 //   const [data, setData] = useState<Root>();
