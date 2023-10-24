@@ -1,0 +1,61 @@
+.grid-home-page {
+  position: relative;
+  display: block;
+  grid-template-columns: 0px auto auto auto;
+  grid-template-rows: auto;
+  grid-template-areas:
+    "sidebar container-main container-main container-main container-main"
+    "sidebar container-main container-main container-main container-main"
+    "sidebar container-main container-main container-main container-main"
+    "sidebar container-main container-main container-main container-main";
+}
+.container-main {
+  grid-area: container-main;
+}
+.sidebar-main {
+  display: none;
+  grid-area: sidebar;
+  z-index: -1;
+}
+
+.shopping-cart-container {
+  background: rgba(82, 111, 240, 0.726);
+  border-radius: 15px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem;
+}
+.carousel-img {
+  max-width: 500px;
+  max-height: 420px;
+}
+
+.homepage-img {
+  max-width: 250px;
+  max-height: 190px;
+}
+.img-width-171 {
+  width: 171px;
+}
+
+@media screen and (min-width: 1024px) and (orientation: landscape) {
+  .grid-home-page {
+    position: relative;
+    display: grid;
+    grid-template-columns: 50px auto auto auto;
+    grid-template-rows: auto;
+    grid-template-areas:
+      "sidebar container-main container-main container-main container-main"
+      "sidebar container-main container-main container-main container-main"
+      "sidebar container-main container-main container-main container-main"
+      "sidebar container-main container-main container-main container-main";
+  }
+  .sidebar-main {
+    display: flex;
+    grid-area: sidebar;
+    z-index: 1;
+  }
+}

@@ -1,0 +1,26 @@
+Data: 
+(6) [{…}, {…}, {…}, {…}, {…}, {…}]
+0
+: 
+{categoryId: 1, categoryName: 'MOBILES', categoryImg: '../img/product-1.png', categoryProducts: Array(10)}
+1
+: 
+{categoryId: 2, categoryName: 'TV', categoryImg: '../img/product-11.png', categoryProducts: Array(10)}
+2
+: 
+{categoryId: 3, categoryName: 'PC', categoryImg: '../img/product-21.png', categoryProducts: Array(10)}
+3
+: 
+{categoryId: 4, categoryName: 'Smart Watch', categoryImg: '../img/product-31.png', categoryProducts: Array(10)}
+4
+: 
+{categoryId: 5, categoryName: 'Consoles', categoryImg: '../img/product-41.png', categoryProducts: Array(10)}
+5
+: 
+{categoryId: 6, categoryName: 'Audi Hi-Fi', categoryImg: '../img/product-51.png', categoryProducts: Array(10)}
+length
+: 
+6
+[[Prototype]]
+: 
+Array(0)

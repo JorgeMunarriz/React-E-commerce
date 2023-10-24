@@ -1,0 +1,46 @@
+{
+    "admin": {
+        "token": "2",
+        "firstName": "admin",
+        "lastName": "Admin1",
+        "username": "Admin1",
+        "email": "Admin@gmail.com",
+        "password": "-Admin1"
+        
+        
+    },
+    "user": {
+        "token": "1",
+        "firstName": "user",
+        "lastName": "lastName",
+        "username": "username",
+        "email": "email@example.com",
+        "password": "-User.1",
+        "address": "C/ example 1 A",
+        "country": {
+            "spain": "spain",
+            "portugal": "portugal",
+            "uk": "uk",
+            "andorra": "andorra"
+        },
+        "city": {
+            "madrid": "madrid",
+            "lisbon": "lisbon",
+            "london": "london",
+            "andorra": "andorra la vella"
+        },
+        "zip": 55555,
+        "shippingAddress": false,
+        "saveinformation": false,
+        "payment": {
+            "creditcard": false,
+            "debitcard": false,
+            "paypal": false
+        },
+        "nameoncard": "username",
+        "cardnumber": 1234567891230,
+        "expiration": 2524,
+        "cvv": 123
+    }
+    
+}

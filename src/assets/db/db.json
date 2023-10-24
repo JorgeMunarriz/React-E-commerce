@@ -1,0 +1,567 @@
+{
+  "categories": [
+    {
+      "categoryId": 1,
+      "categoryName": "MOBILES",
+      "categoryImg": "../img/product-1.png",
+      "categoryProducts": [
+        {
+          "id": 1,
+          "name": "Samsung Galaxy S23 5G, Phantom Black, 256GB",
+          "img": "../img/product-1.png",
+          "price": 889,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 2,
+          "name": "Iphone 13 Pro, White, 128GB",
+          "img": "../img/product-2.png",
+          "price": 809,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 3,
+          "name": "Samsung Galaxy S23 Ultra 5G, Black, 128GB",
+          "img": "../img/product-3.png",
+          "price": 1379,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 4,
+          "name": "Samsung Galaxy A23 5G, White, 128GB",
+          "img": "../img/product-4.png",
+          "price": 219,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 5,
+          "name": "Realme C55, Black, 256 GB",
+          "img": "../img/product-5.png",
+          "price": 199,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 6,
+          "name": "Xiaomi Redmi Note 12 Pro 5G, White, 128 GB",
+          "img": "../img/product-6.png",
+          "price": 329,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 7,
+          "name": "OPPO A17, Midnight Black, 64 GB",
+          "img": "../img/product-7.png",
+          "price": 149.99,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 8,
+          "name": "Motorola G13, Lavender Blue, 128 GB",
+          "img": "../img/product-8.png",
+          "price": 139,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 9,
+          "name": "APPLE iPhone SE (3ª gen.), White, 256 GB",
+          "img": "../img/product-9.png",
+          "price": 709,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 10,
+          "name": "OnePlus Nord CE 2 Lite 5G, Black, 128 GB",
+          "img": "../img/product-10.png",
+          "price": 229,
+          "stock": true,
+          "description": ""
+        }
+      ]
+    },
+    {
+      "categoryId": 2,
+      "categoryName": "TV",
+      "categoryImg": "../img/product-11.png",
+      "categoryProducts": [
+        {
+          "id": 11,
+          "name": "TV OLED 55\" LG OLED55C25",
+          "img": "../img/product-11.png",
+          "price": 1199,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 12,
+          "name": "TV LED 55 TCL 55P635, LCD 4K",
+          "img": "../img/product-12.png",
+          "price": 299,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 13,
+          "name": "TV QLED 75\" Samsung, QLED 4K",
+          "img": "../img/product-13.png",
+          "price": 999,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 14,
+          "name": "TV LED 32\" Xiaomi Mi TV P1",
+          "img": "../img/product-14.png",
+          "price": 179,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 15,
+          "name": "TV LED 55\" Xiaomi TV P1E, UHD 4K",
+          "img": "../img/product-15.png",
+          "price": 399,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 16,
+          "name": "TV LED 50\" Hisense 50A6BG, 4K UHD",
+          "img": "../img/product-16.png",
+          "price": 299,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 17,
+          "name": "Proyector Samsung The Freestyle 2022 107\"",
+          "img": "../img/product-17.png",
+          "price": 699,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 18,
+          "name": "TV LED 55\" Sony BRAVIA 55X75WL, 4K HDR",
+          "img": "../img/product-18.png",
+          "price": 699,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 19,
+          "name": "TV NanoCell 55\" 55NANO786QA LG, UHD 4K",
+          "img": "../img/product-19.png",
+          "price": 579,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 20,
+          "name": "TV OLED 97\" LG OLED97G29LA, UHD 4K",
+          "img": "../img/product-20.png",
+          "price": 29999,
+          "stock": true,
+          "description": ""
+        }
+      ]
+    },
+    {
+      "categoryId": 3,
+      "categoryName": "PC",
+      "categoryImg": "../img/product-21.png",
+      "categoryProducts": [
+        {
+          "id": 21,
+          "name": "Laptop - ZBook Studio G7 HP, 15,6\"",
+          "img": "../img/product-21.png",
+          "price": 8899,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 22,
+          "name": "Laptop Gaming - Stealth GS77 12U MSI, 17,3 \"",
+          "img": "../img/product-22.png",
+          "price": 6294.63,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 23,
+          "name": "Laptop Asus Vivobook 15,6\"",
+          "img": "../img/product-23.png",
+          "price": 1379,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 24,
+          "name": "Laptop Creator Z17 A12U MSI, 17\"",
+          "img": "../img/product-24.png",
+          "price": 7435.2,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 25,
+          "name": "Laptop RAZER, 17\"",
+          "img": "../img/product-25.png",
+          "price": 5882,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 26,
+          "name": "Laptop ASUS, 17,3\"",
+          "img": "../img/product-26.png",
+          "price": 5732.86,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 27,
+          "name": "Laptop gaming ASUS, 16\"",
+          "img": "../img/product-27.png",
+          "price": 4839.23,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 28,
+          "name": "Laptop Chuwi Hi10X CHUWI, 10,1\"",
+          "img": "../img/product-28.png",
+          "price": 245.93,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 29,
+          "name": "Convertible 2 en 1 Lenovo \"Id\"eaPad Flex 5",
+          "img": "../img/product-29.png",
+          "price": 649,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 30,
+          "name": "APPLE MacBook Pro (2023), 16.2 \"",
+          "img": "../img/product-30.png",
+          "price": 3899,
+          "stock": true,
+          "description": ""
+        }
+      ]
+    },
+    {
+      "categoryId": 4,
+      "categoryName": "Smart Watch",
+      "categoryImg": "../img/product-31.png",
+      "categoryProducts": [
+        {
+          "id": 31,
+          "name": "APPLE Watch Ultra (2022), GPS + Cellular",
+          "img": "../img/product-31.png",
+          "price": 889,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 32,
+          "name": "Smartwatch - Galaxy Watch Active 2 SAMSUNG, Oro",
+          "img": "../img/product-32.png",
+          "price": 606.78,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 33,
+          "name": "Smartwatch SM-R800NZSAPHE SAMSUNG",
+          "img": "../img/product-33.png",
+          "price": 519,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 34,
+          "name": "Smartwatch - SM-R925FZTAPHE SAMSUNG",
+          "img": "../img/product-34.png",
+          "price": 503,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 35,
+          "name": "Smartwatch - MI WATCH S1-SL-1 XIAOMI",
+          "img": "../img/product-35.png",
+          "price": 249.7,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 36,
+          "name": "Smartwatch - Xiaomi Watch S1 Pro",
+          "img": "../img/product-36.png",
+          "price": 261,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 37,
+          "name": "Smartwatch - MI WATCH S1-BL-1 XIAOMI",
+          "img": "../img/product-37.png",
+          "price": 249.7,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 38,
+          "name": "Smartwatch - Galileo-L40E HUAWEI",
+          "img": "../img/product-38.png",
+          "price": 570.57,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 39,
+          "name": "Smartwatch - GT 3 Pro HUAWEI",
+          "img": "../img/product-39.png",
+          "price": 464.19,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 40,
+          "name": "Smartwatch - 8GB ROM + 1GB RAM",
+          "img": "../img/product-40.png",
+          "price": 304.8,
+          "stock": true,
+          "description": ""
+        }
+      ]
+    },
+    {
+      "categoryId": 5,
+      "categoryName": "Consoles",
+      "categoryImg": "../img/product-41.png",
+      "categoryProducts": [
+        {
+          "id": 41,
+          "name": "Play Station 1",
+          "img": "../img/product-41.png",
+          "price": 150,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 42,
+          "name": "Play Station 2",
+          "img": "../img/product-42.png",
+          "price": 205.59,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 43,
+          "name": "Play Station 3",
+          "img": "../img/product-43.png",
+          "price": 279,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 44,
+          "name": "Play Station 4",
+          "img": "../img/product-44.png",
+          "price": 350,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 45,
+          "name": "Play Station 5",
+          "img": "../img/product-45.png",
+          "price": 199,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 46,
+          "name": "Nintendo Switch OLED",
+          "img": "../img/product-46.png",
+          "price": 316,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 47,
+          "name": "Xbox Series X",
+          "img": "../img/product-47.png",
+          "price": 479,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 48,
+          "name": "Xbox Series S",
+          "img": "../img/product-48.png",
+          "price": 269,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 49,
+          "name": "Microsoft Xbox Series X, 1 TB SSD, 4K UHD Blu-ray + Diablo IV video game",
+          "img": "../img/product-49.png",
+          "price": 542,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 50,
+          "name": "Nintendo Switch Lite, Portable",
+          "img": "../img/product-50.png",
+          "price": 220,
+          "stock": true,
+          "description": ""
+        }
+      ]
+    },
+    {
+      "categoryId": 6,
+      "categoryName": "Audi Hi-Fi",
+      "categoryImg": "../img/product-51.png",
+      "categoryProducts": [
+        {
+          "id": 51,
+          "name": "Ultimate Ears Megaboom 3 Night Black",
+          "img": "../img/product-51.png",
+          "price": 139,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 52,
+          "name": "Sony SRSXB23B, Bluetooth, Extra Bass",
+          "img": "../img/product-52.png",
+          "price": 79,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 53,
+          "name": "Vieta Pro Party 5, 100W, True Wireless",
+          "img": "../img/product-53.png",
+          "price": 119.99,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 54,
+          "name": "Vieta Pro Mini Thunder, 100W",
+          "img": "../img/product-54.png",
+          "price": 129.99,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 55,
+          "name": "LG OL100, 2000 W",
+          "img": "../img/product-55.png",
+          "price": 479,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 56,
+          "name": "NGS Premium Portable Speaker Wild Rave 1, 200 W",
+          "img": "../img/product-56.png",
+          "price": 329,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 57,
+          "name": "NGS Premium Portable Speaker Wild Rave 1, 200 W",
+          "img": "../img/product-57.png",
+          "price": 76.99,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 58,
+          "name": "Vieta Pro Party 1, 150 W",
+          "img": "../img/product-58.png",
+          "price": 140,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 59,
+          "name": "KEF LS60 Wireless, Set de 2, Wi-Fi, 1400W",
+          "img": "../img/product-59.png",
+          "price": 5949.15,
+          "stock": true,
+          "description": ""
+        },
+        {
+          "id": 60,
+          "name": "BANG & OLUFSEN, Bluetooth",
+          "img": "../img/product-60.png",
+          "price": 3764.89,
+          "stock": true,
+          "description": ""
+        }
+      ]
+    }
+  ],
+  "admin": {
+    "token": "2",
+    "firstName": "admin",
+    "lastName": "Admin1",
+    "username": "Admin1",
+    "email": "Admin@gmail.com",
+    "password": "-Admin1"
+  },
+  "user": {
+    "token": "1",
+    "firstName": "user",
+    "lastName": "lastName",
+    "username": "username",
+    "email": "email@example.com",
+    "password": "-User.1",
+    "address": "C/ example 1 A",
+    "country": {
+      "spain": "spain",
+      "portugal": "portugal",
+      "uk": "uk",
+      "andorra": "andorra"
+    },
+    "city": {
+      "madrid": "madrid",
+      "lisbon": "lisbon",
+      "london": "london",
+      "andorra": "andorra la vella"
+    },
+    "zip": 55555,
+    "shippingAddress": false,
+    "saveinformation": false,
+    "payment": {
+      "creditcard": false,
+      "debitcard": false,
+      "paypal": false
+    },
+    "nameoncard": "username",
+    "cardnumber": 1234567891230,
+    "expiration": 2524,
+    "cvv": 123
+  }
+}
