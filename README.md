@@ -8,6 +8,10 @@ This project is a web-based E-commerce application that simulates an online stor
 ### Mobile version
 ![Mobile Version](/src/assets/img/mobile-version-ecomerce.png)
 
+
+
+If you want to view the website, the repository is currently deploy at : https://react-e-commerce-seven-roan.vercel.app/
+
 ## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
