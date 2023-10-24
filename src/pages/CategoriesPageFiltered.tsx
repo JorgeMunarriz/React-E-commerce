@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link, useParams } from "react-router-dom";
-import { CategoryProps, ProductsProps } from "../types";
+import { CategoryProps, ProductsProps } from "../types/product";
 import { products } from "../assets/db/Products.db";
 import { Loader, ProductStyles, ProductsView } from "../components";
 

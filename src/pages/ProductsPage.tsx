@@ -1,7 +1,7 @@
 import { FC } from "react";
 import { ProductsView, ProductStyles } from "../components";
 import { products } from "../assets/db/Products.db";
-import { CategoryProps, ProductsProps } from "../types";
+import { CategoryProps, ProductsProps } from "../types/product";
 
 export const ProductsPage: FC<CategoryProps> = () => {
   return (

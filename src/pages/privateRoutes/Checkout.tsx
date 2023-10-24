@@ -6,7 +6,7 @@ import { products } from "../../assets/db/Products.db";
 import { Users } from "../../assets/db/Users";
 import { Loader, CardCheckout } from "../../components";
 import { Shop } from "../../context/ShopCartContext";
-import { CardImgProps } from "../../types";
+import { CardImgProps } from "../../types/product";
 
 const codes = [
   { code: "mar23", discount: 20 },
